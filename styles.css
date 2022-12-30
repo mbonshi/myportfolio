@@ -22,5 +22,42 @@
 .nav-links> a {
  
     color: white;
-    font-size: 20px;
+    font-size: 25px;
+    cursor: pointer;
+}
+.hero{
+
+background-color: black;
+min-height:80vh;
+
+}
+
+.home-desc{
+
+display: flex;
+justify-content: space-between;
+width: 80%;
+margin: auto;
+padding-top: 12rem;
+color: white;
+}
+
+.home-desc>img
+{
+    width:400px ;
+    height:400px ;
+}
+
+.home-content
+{
+    width: 50%;
+
+}
+
+.h1{
+    text-align: center;
+}
+
+.second-h1{
+    text-align: center;
 }
